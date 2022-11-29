@@ -2,13 +2,8 @@ import requests
 import os
 import json
 
-
 bearer_token = 'your token'
-
 search_url = "https://api.twitter.com/2/tweets/search/recent"
-
-# Optional params: start_time,end_time,since_id,until_id,max_results,next_token,
-# expansions,tweet.fields,media.fields,poll.fields,place.fields,user.fields
 query_params = {'query': '(from:elonmusk -is:reply) ','tweet.fields': 'author_id'}
 
 
