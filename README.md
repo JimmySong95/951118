@@ -12,3 +12,4 @@ test code is nlp_test.py
 
 the text is: I love messi! and the sentiment score is:
 
+![image](https://github.com/JimmySong95/EC601/blob/main/nlp_result.png)
