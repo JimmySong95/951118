@@ -23,3 +23,5 @@ the MVP is helping to analyze the sentiment of people toward specific object;
 User story: I, product manager, wants to know should I make some elon musk dolls(kidding) and will people buy it?
 
 the output of the program will be:
+
+![image](https://github.com/JimmySong95/EC601/blob/main/FINAL_RESULT.png)
